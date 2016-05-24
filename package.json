@@ -10,14 +10,13 @@
   "author": "skratchdot",
   "repository": {
     "type": "git",
-    "url": "git://github.com/skratchdot/react-bootstrap-daterangepicker.git"
+    "url": "git://github.com/lespavl/react-bootstrap-daterangepicker.git"
   },
   "bugs": {
-    "url": "https://github.com/skratchdot/react-bootstrap-daterangepicker/issues"
+    "url": "https://github.com/lespavl/react-bootstrap-daterangepicker/issues"
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "bootstrap-daterangepicker": "^2.1.19",
     "object-assign": "^4.0.1"
   },
   "peerDependencies": {
